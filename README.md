@@ -1,2 +1,2 @@
-# begin-to-learnC-
+# begin-to-learnC++
 Learning process C++
